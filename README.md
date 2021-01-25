@@ -12,7 +12,7 @@ This program takes your order and then you input how much money you pay with. It
 
 <img src="https://github.com/williamShuppert/MakingChange/blob/main/MakingChangePaying.PNG" height="100">
 
-## Recipt
+## Receipt
 
 <img src="https://github.com/williamShuppert/MakingChange/blob/main/MakingChangeRecipt.PNG" height="500">
 
