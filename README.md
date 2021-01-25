@@ -1,6 +1,6 @@
 # MakingChange
 
-This was one of my first c++ console applications I made in high school for my AP CS class.
+This was one of my first c++ console applications I made in high school for my Honors Computer Programming class.
 
 This program takes your order and then you input how much money you pay with. It will then tell you how much change you get back with the least possible number of coins and bills. It also has some fun ascii art based off of one of my favorite restaurants Skyline Chili.
 
